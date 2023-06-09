@@ -1,6 +1,6 @@
 {
-  "name": "rehype-urls",
-  "version": "1.1.1",
+  "name": "@dword-design/rehype-urls",
+  "version": "0.0.1",
   "description": "Rehype plugin to rewrite URLs of `href` and `src` attributes",
   "main": "index.js",
   "scripts": {
